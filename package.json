@@ -1,0 +1,23 @@
+﻿{
+  "name": "raindrops",
+  "version": "1.0.0",
+  "description": "A program that converts a number to a string, the contents of which depends on the number’s prime factors",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emmabaye/raindrops.git"
+  },
+  "keywords": [
+    "TDD",
+    "JavaScript"
+  ],
+  "author": "Emmanuel Abaye",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
