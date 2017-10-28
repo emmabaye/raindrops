@@ -1,4 +1,4 @@
-var raindrops = (num) => {
+const raindrops = (num) => {
 	let str="";
 
 	for (let i = 3; i <= 7; i++) {
